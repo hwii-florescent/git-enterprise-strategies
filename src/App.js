@@ -1,4 +1,4 @@
-import logo from './gator.gif';
+import lgitogo from './gator.gif';
 import './App.css';
 
 function App() {
